@@ -2,15 +2,16 @@
 Cada estudiante deberá buscar dos (2) aplicaciones de la IA en la actualidad y colocar en este espacio las siguientes informaciones:
 
 
-a)  Nombre de la aplicación
-1.	Siri.
-2.	Grammarly.
+a)         Nombre de la aplicación
+1.   	Siri.
+2.	   Grammarly.
 
 b)  Breve descripción de la aplicación (4 líneas como máximo).
  	
-  1 .  Siri: Siri es un asistente personal integrado controlado por voz disponible para los usuarios de Apple. La idea es que hables con ella como lo harías con un amigo y su objetivo es ayudarte a hacer las cosas, ya sea haciendo una reserva para cenar o enviando un mensaje. Sus competidores son Asistente de Google, Microsoft Cortana, Amazon Alexa y Samsung Bixby.
+  1 .  Siri:
+  Siri es un asistente personal integrado controlado por voz disponible para los usuarios de Apple. La idea es que hables con ella como lo harías con un amigo y su objetivo es ayudarte a hacer las cosas, ya sea haciendo una reserva para cenar o enviando un mensaje. Sus competidores son Asistente de Google, Microsoft Cortana, Amazon Alexa y Samsung Bixby.
   
-  2 .   	Grammarly:
+  2 .  Grammarly:
  Es una aplicación que permite asegurar que todo lo que escribas en inglés sea claro, efectivo y no posea errores ortográficos y gramaticales. Grammarly Business dispone de una versión gratuita y ofrece una prueba gratis. La versión de pago de Grammarly Business está disponible a partir de USD 12.50/mes.  
 
 
@@ -35,3 +36,6 @@ NO
 
 f)  Fecha de ingreso de la entrada al repositorio.
 14/10/22
+
+        ANTHONY DIAZ DIAZ
+        319-6919
